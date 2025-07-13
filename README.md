@@ -92,7 +92,7 @@ Before starting, ensure you have:
 1. **Clone this repo:**
    ```bash
    git clone https://github.com/agarwaljubin/Working-with-Pandas_Data-analysis.git
-   cd Working-with-Pandas_Data-analysis
+   cd Working-with-Pandas_Data-analysis ```
 Create a virtual environment (recommended):
 
 bash
@@ -105,12 +105,12 @@ bash
 Copy
 Edit
 # macOS/Linux
-source venv/bin/activate
+ ```source venv/bin/activate ```
 
 # Windows
-venv\Scripts\activate
+ ```venv\Scripts\activate ```
 
-pip install pandas numpy matplotlib seaborn
+ ```pip install pandas numpy matplotlib seaborn ```
 Run Jupyter notebooks:
 
 bash
